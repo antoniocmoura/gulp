@@ -30,7 +30,6 @@ function tarefasCSS(callback) {
 
 }
 
-
 function tarefasFonts(callback) {
 
     gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/*')
@@ -39,7 +38,6 @@ function tarefasFonts(callback) {
     return callback();
 
 }
-
 
 function tarefasJS(callback) {
 
